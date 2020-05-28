@@ -56,7 +56,8 @@
     "which-polygon": "2.0.0",
     "wmf-sitematrix": "0.1.4",
     "angular": "1.0.0",
-    "mongo-express": "0.54.0"
+    "mongo-express": "0.54.0",
+    "sanitize-html": "1.0.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
