@@ -55,7 +55,7 @@
     "string.fromcodepoint": "0.2.1",
     "which-polygon": "2.0.0",
     "wmf-sitematrix": "0.1.4",
-    "angular": "1.0.0",
+    "angular": "1.8.0",
     "mongo-express": "0.54.0",
     "sanitize-html": "1.24.0"
   },
